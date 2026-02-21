@@ -1,0 +1,15 @@
+Jocul Cuvintelor
+O aplicatie de tip consola realizata in C++, unde utlizatorul trebuie sa ghiceasca cuvinte pe baza unor definitii, trecând prin trei niveluri de dificultate.
+
+Utilizare:
+1. La pornire, utilizatorul va primi un set de reguli.
+2. Dupa afisarea regulilor, programul afiseaza întrebarea :"Esti pregatit? y/n"
+3. Daca introduce "Y", jocul incepe cu nivelul 1(Usor).
+4. La fiecare etapa, utilizatorul va primi lungimea cuvântului reprezentata prin '*' si definitia acestuia.
+5. Utilizatorul poate:
+     - Sa tasteze '*' pentru a cere o litera.
+     - Sa introduca solutia completa.
+6. Daca utilizatorul greseste cuvântul sau introduce o litera gresita, acesta are la dispozitie 3 incercari.
+7. La finalul fiecarui nivel, programul afiseaza punctajul total actualizat.
+
+
