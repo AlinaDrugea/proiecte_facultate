@@ -1,0 +1,175 @@
+apa: lichid esential vietii
+aer: amestec de gaze din atmosfera
+alb: culoare lipsita de nuanta
+cald: cu temperatura ridicata
+rece: cu temperatura scazuta
+mare: de dimensiuni mari
+mic: de dimensiuni reduse
+bun: de calitate buna
+rau: lipsit de calitate
+sus: in partea de sus
+jos: in partea de jos
+dreapta: directie opusa stangii
+stanga: directie opusa dreptei
+zi: perioada de 24 de ore
+noapte: perioada intunecata a zilei
+soare: steaua din centrul sistemului solar
+luna: satelitul natural al Pamantului
+om: fiinta umana
+fata: persoana de sex feminin
+baiat: persoana de sex masculin
+copil: persoana in crestere
+casa: locuinta
+masa: obiect cu suprafata plana
+scaun: obiect pentru sezut
+pat: obiect pentru dormit
+usa: deschidere pentru intrare
+geam: suprafata transparenta
+carte: obiect cu pagini tiparite
+pix: instrument de scris
+stilou: instrument de scris
+frate: membru al familiei
+sora: membru al familiei
+mama: parinte de sex feminin
+tata: parinte de sex masculin
+apa: lichid esential vietii
+foc: ardere cu flacara
+fum: rezultat al arderii
+nor: masa de vapori in atmosfera
+ploaie: cadere de apa din nori
+vant: miscare a aerului
+zapada: precipitatie solida
+iarna: anotimp rece
+vara: anotimp cald
+primavara: anotimp al renasterii
+toamna: anotimp al caderii frunzelor
+floare: parte decorativa a unei plante
+frunza: parte a unei plante
+copac: planta lemnoasa
+iarba: planta verde scurta
+pamant: solul pe care calcam
+drum: cale de mers
+pod: constructie peste un obstacol
+rau: curs de apa
+lac: acumulare de apa
+munte: forma de relief inalta
+deal: forma de relief joasa
+camp: zona intinsa de teren
+sat: localitate mica
+oras: localitate mare
+telefon: dispozitiv de comunicare
+ceas: instrument de masurat timpul
+mana: parte a corpului
+picior: parte a corpului
+cap: partea superioara a corpului
+ochi: organ al vederii
+nas: organ al mirosului
+gura: deschidere pentru vorbit si mancat
+ureche: organ al auzului
+par: fire care cresc pe cap
+piele: invelisul corpului
+os: structura dura a corpului
+sange: lichid vital
+inima: organ care pompeaza sange
+minte: capacitate de gandire
+zambet: expresie a bucuriei
+ras: expresie sonora a bucuriei
+plans: expresie a tristetii
+somn: stare de odihna
+vis: imagine din timpul somnului
+joc: activitate distractiva
+minge: obiect rotund pentru joc
+haina: obiect vestimentar
+pantof: incaltaminte
+tricou: articol vestimentar
+geaca: haina groasa
+pantalon: articol vestimentar
+apa: lichid esential vietii
+lapte: lichid nutritiv
+paine: aliment de baza
+ou: produs alimentar
+carne: aliment proteic
+fruct: produs al plantelor
+mar: fruct rotund
+para: fruct dulce
+pruna: fruct mov
+banana: fruct tropical
+portocala: fruct citric
+strugure: fruct in ciorchine
+leguma: aliment vegetal
+morcov: leguma portocalie
+cartof: leguma subterana
+rosie: leguma rosie
+castravete: leguma verde
+ceapa: leguma cu miros puternic
+usturoi: planta aromata
+ulei: lichid gras
+apa: lichid esential vietii
+zahar: substanta dulce
+sare: substanta sarata
+piper: condiment
+miere: produs al albinelor
+ciocolata: desert dulce
+prieten: persoana apropiata
+vecin: persoana care locuieste aproape
+profesor: persoana care preda
+elev: persoana care invata
+clasa: grupa de elevi
+scoala: loc de invatare
+tema: sarcina de lucru
+nota: evaluare
+test: verificare
+ban: unitate de plata
+banca: institutie financiara
+magazin: loc de cumparaturi
+pret: valoare a unui produs
+bilet: hartie pentru acces
+tren: mijloc de transport
+autobuz: mijloc de transport
+masina: vehicul
+bicicleta: vehicul cu doua roti
+motor: dispozitiv care produce miscare
+cheie: obiect pentru deschidere
+harta: reprezentare a unui teritoriu
+sosea: drum pentru masini
+semn: indicator
+culoare: proprietate vizuala
+rosu: culoare
+albastru: culoare
+verde: culoare
+galben: culoare
+negru: culoare
+gri: culoare
+roz: culoare
+mov: culoare
+cerc: forma geometrica
+patrat: forma geometrica
+triunghi: forma geometrica
+linie: trasatura dreapta
+punct: semn mic
+sunet: vibratie perceputa
+muzica: arta sunetelor
+cantec: melodie
+voce: sunet produs de om
+film: productie video
+poza: imagine
+camera: dispozitiv de fotografiat
+lumina: energie vizibila
+umbra: zona fara lumina
+ziua: perioada luminoasa
+ora: unitate de timp
+minut: unitate de timp
+secunda: unitate de timp
+acum: momentul prezent
+ieri: ziua trecuta
+maine: ziua urmatoare
+aici: in acest loc
+acolo: in alt loc
+bine: in mod corect
+rau: in mod incorect
+repede: cu viteza
+incet: fara viteza
+gata: finalizat
+inceput: moment initial
+sfarsit: moment final
+
