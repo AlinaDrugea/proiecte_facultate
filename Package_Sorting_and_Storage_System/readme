@@ -1,0 +1,13 @@
+Proiectul constă într-un sistem inteligent de sortare pentru benzi transportoare, bazat pe microcontrolerul ATmega164. Sistemul clasifică pachetele folosind identificare binară și senzori de greutate, direcționându-le automat către destinația corectă.
+Specificații Tehnice
+Hardware: Microcontroler ATmega164 (Frecvență: 10MHz).
+Software: CodeVisionAVR V4.03, AVR Studio (Debugging & Testare).
+Arhitectură: Implementare prin FSM (Finite State Machine) pentru control precis și predictibilitate.
+
+Logică de Funcționare 
+Sistemul funcționează pe baza unui circuit logic secvențial cu 5 stări distincte:
+Detectare: Senzorul identifică prezența unui pachet pe bandă.
+Achiziție Date: Citirea codului binar de identificare și a senzorului de greutate.
+Decizie: Procesarea datelor și activarea mecanismului de direcționare.
+Verificare: Confirmarea poziționării corecte a coletului.
+Reset: Pregătirea sistemului pentru următorul ciclu de sortare.
