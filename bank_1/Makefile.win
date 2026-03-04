@@ -1,0 +1,37 @@
+# Project: Project6
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = account.o main.o checking_account.o savings_account.o
+LINKOBJ  = account.o main.o checking_account.o savings_account.o
+LIBS     = -L"E:/aplicatii/Dev-Cpp/MinGW64/lib" -L"E:/aplicatii/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"E:/aplicatii/Dev-Cpp/MinGW64/include" -I"E:/aplicatii/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"E:/aplicatii/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"E:/aplicatii/Dev-Cpp/MinGW64/include" -I"E:/aplicatii/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"E:/aplicatii/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"E:/aplicatii/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = bank_1.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+account.o: account.cpp
+	$(CPP) -c account.cpp -o account.o $(CXXFLAGS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+checking_account.o: checking_account.cpp
+	$(CPP) -c checking_account.cpp -o checking_account.o $(CXXFLAGS)
+
+savings_account.o: savings_account.cpp
+	$(CPP) -c savings_account.cpp -o savings_account.o $(CXXFLAGS)
