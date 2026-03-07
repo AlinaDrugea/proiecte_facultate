@@ -1,0 +1,1 @@
+Acest proiect prezintă un sistem de detectare a proximității folosind un microcontroler ESP32, un senzor cu ultrasunete și distanța afișată pe un afișaj cu 7 segmente, cu avertizări audio și vizuale prin intermediul unui buzzer și a unor LED-uri.
